@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Anders Strand",
+    "yearOfBirth": "1979",
+    "education": "Civilingenjör (D)",
+    "summary": "En sansad Fagerstabo med drygt 7 års erfarenhet som konsult och utvecklare. Certifierad Lead Developer.",
+    "speciality": "Agil utveckling på Java-plattformen"
+  },
+  {
+    "name": "Andreas Engström",
+    "yearOfBirth": "1978",
+    "education": "Datavetenskap",
+    "summary": "Trebarnsfar från Degerfors. Började sin akademiska bana som mattelärare och slutade som datavetare. Har de senaste 8 åren jobbat som konsult och utvecklare. Certifierad Lead Developer.",
+    "speciality": "Java, WS, Spring, GWT"
+  },
+  {
+    "name": "Anja Nilsson",
+    "yearOfBirth": "1963",
+    "education": "Civilekonom",
+    "summary": "Noggrann ekonom från Sundsvall med 25 års erfarenhet.",
+    "speciality": "Redovisning, årsbokslut och att det blir rätt"
+  },
+  {
+    "name": "Calle Sollander",
+    "yearOfBirth": "1968",
+    "education": "ADB-linjen",
+    "summary": "En erfaren utvecklare från Stockholm. Har jobbat med systemutveckling sedan 1991 först på bank sedan som konsult.",
+    "speciality": "Java, webb, EJB"
+  },
+  {
+    "name": "Gustaf Möllberg",
+    "yearOfBirth": "1981",
+    "education": "Data och Systemvetenskap, Stockholms universitet",
+    "summary": "En rutinerad utvecklare som värnar om sina kollegor, teammedlemmar och sin arbetsgivare.",
+    "speciality": "Java, webb, transaktionsintensiva miljöer"
+  },
+  {
+    "name": "Gösta",
+    "yearOfBirth": "2012",
+    "education": "Valpkurs och unghundskurs",
+    "summary": "Glad och stämningsskapande allt-i-allo.",
+    "speciality": "Jobbar helst inte alls. Ligger hellre på soffan."
+  },
+  {
+    "name": "Håkan Klevfors",
+    "yearOfBirth": "1968",
+    "education": "Systemvetenskap",
+    "summary": "En erfaren utvecklare från Avesta med mycket humor. Har jobbat som konsult i drygt 15 år och kan det mesta.",
+    "speciality": "Java, webb och databas. Varför inte en gammal hederlig klientapplikation?"
+  },
+  {
+    "name": "Jennie Feuk",
+    "yearOfBirth": "1973",
+    "education": "Matematik och systemvetenskap",
+    "summary": "En rutinerad konsult och utvecklare som brinner för agil systemutveckling och samlar på upplevelser.",
+    "speciality": "Java i agila team"
+  },
+  {
+    "name": "Johan Karlsson",
+    "yearOfBirth": "1985",
+    "education": "Högskoleingenjör",
+    "summary": "Mer erfaren än vad man kan tro. En ung utvecklare med böjelse för ismaskin och kollektiv.",
+    "speciality": "Media? Nej!! Data!"
+  },
+  {
+    "name": "Johan Selenius",
+    "yearOfBirth": "1974",
+    "education": "Matematisk-datalogisk linje",
+    "summary": "En coachande utvecklare/devop från Stockholm. Johan har jobbat som konsult sedan 1998 och är den naturlige Lead Developern i ett projekt där han tar mycket ansvar för helheten. Handledare på Certifierad Lead Developer.",
+    "speciality": "CI, TDD, CM, lead, utbildning"
+  },
+  {
+    "name": "Johan Söderström",
+    "yearOfBirth": "1969",
+    "education": "Systemvetare",
+    "summary": "Teknisk projektledare, Scrum Master och Coach med Leanvärdering. Göteborgshumor och mer än 15 års erfarenhet från IT-branschen.",
+    "speciality": "Människor, Lean/Kanban, Agilt och affärsmässigt"
+  },
+  {
+    "name": "Johannes Runhamn",
+    "yearOfBirth": "1985",
+    "education": "Spelprogrammering, Blekinge Tekniska Högskola",
+    "summary": "En klurig utvecklare som alltid levererar och kan ta i när det behövs.",
+    "speciality": "Java \u0026 webb"
+  },
+  {
+    "name": "Kamyar Sajjadi",
+    "yearOfBirth": "1988",
+    "education": "Data \u0026 Systemvetenskap, Stockholms universitet",
+    "summary": "En konsult med en ovanligt kombination – ung \u0026 erfaren. En Utvecklare som brinner för programmering.",
+    "speciality": "Java och kollegorna"
+  },
+  {
+    "name": "Karl-Adam Bredwad",
+    "yearOfBirth": "1981",
+    "education": "Data \u0026 Systemvetenskap, Magisterexamen",
+    "summary": "Laissez faire-utvecklare.",
+    "speciality": "Java, web \u0026 integration. Utmaningar!"
+  },
+  {
+    "name": "Karl Karlsson",
+    "yearOfBirth": "1992",
+    "education": "Högskoleingenjör (D) från KTH",
+    "summary": "Vår yngsta medarbetar om vi räknar bort Gösta. Kalle är en programmeringsintresserad ingenjör från Stockholm. Även han kör ismaskin (såklart)",
+    "speciality": "Backend-lösning med Java"
+  },
+  {
+    "name": "Marcus Helsing",
+    "yearOfBirth": "1974",
+    "education": "4-årig ingenjörsutbildning",
+    "summary": "Lugn finlandssvensk med +10 års erfarenhet av systemutveckling. Certifierad Lead Developer.",
+    "speciality": "Arkitektur, Java"
+  },
+  {
+    "name": "Martin Andér Gottvall",
+    "yearOfBirth": "1979",
+    "education": "Civilingenjör \u0026 teknisk doktor",
+    "summary": "Allmänbildad doktor med utvecklarhjärta och stilkänsla. Certifierad Lead Developer.",
+    "speciality": "Java med gui-känsla"
+  },
+  {
+    "name": "Mats Gustafsson",
+    "yearOfBirth": "1961",
+    "education": "Civilingenjör (F)",
+    "summary": "Norrlänning med med förkärlek för objektorientering och pragmatism. Ansvarig för Certifierad IT-arkitekt och delägare i Waymark.",
+    "speciality": "Java \u0026 arkitektur"
+  },
+  {
+    "name": "Mikael Berglund",
+    "yearOfBirth": "1981",
+    "education": "Datateknik, KTH",
+    "summary": "Stockholmare som arbetat med systemutveckling i närmare tio år. Erfarenhet från projekt inom bl.a. bank, resor/transport och spel.",
+    "speciality": "Java, webb, frontend \u0026 backend"
+  },
+  {
+    "name": "Mikael Löf",
+    "yearOfBirth": "1985",
+    "education": "Högskoleingenjör (D)",
+    "summary": "Förvånansvärt erfaren Javautvecklare som programmerat sedan 13 års ålder.",
+    "speciality": "Java, continuous delivery, continuous integration, Maven, GIT och duktiga personer som kan inspirera"
+  },
+  {
+    "name": "Mira Persson",
+    "yearOfBirth": "1972",
+    "education": "Systemvetenskap",
+    "summary": "Krass finländska med klokhet och lång systemutvecklarerfarenhet.",
+    "speciality": "Clean Code Java när familjen tillåter"
+  },
+  {
+    "name": "Nina Sagulin",
+    "yearOfBirth": "1968",
+    "education": "Styr upp saker så det blir effektivt",
+    "summary": "Vår kvicktänkta och roliga Nina som man inte gärna bråkar med.",
+    "speciality": "Familjen, Gösta, sticka och det egna företaget"
+  },
+  {
+    "name": "Per Elgh",
+    "yearOfBirth": "1957",
+    "education": "Civilingenjör (V)",
+    "summary": "Glad skåning som jobbat med IT sedan 1983. Förstudier, projektledare och chef-att-hyra. Ansvarar tillsammans med Mats Gustafsson för Certifierad IT-arkitekt. Delägare och VD för Waymark.",
+    "speciality": "ATG, Linkon, Swedbank och DF Kompetens"
+  },
+  {
+    "name": "Rolf Gustafsson",
+    "yearOfBirth": "1962",
+    "education": "Master of science of Computer Science",
+    "summary": "Mycket erfaren utvecklare med Enator-förflutet när det var som bäst.",
+    "speciality": "Från design till färdig produkt och gärna med agila värderingar"
+  },
+  {
+    "name": "Sofia Kalliaridis",
+    "yearOfBirth": "1972",
+    "education": "Civilingenjör (D)",
+    "summary": "Tvåbarnsmor med grekisk påbrå och med en stor portion humor. D-tjej med mer än 10 år erfarenhet från IT-branschen och konsultlivet.",
+    "speciality": "Kravfångst, verifiering och systemutveckling i Java"
+  },
+  {
+    "name": "Svante Frey",
+    "yearOfBirth": "1974",
+    "education": "Civilingenjör (F)",
+    "summary": "Ödmjuk ingenjör med passion för systemutveckling och svåra problem.",
+    "speciality": "Varför inte Scala?"
+  },
+  {
+    "name": "Tomas Nord Kronberg",
+    "yearOfBirth": "1972",
+    "education": "Civilingenjör (D)",
+    "summary": "Lågmäld och receptiv utvecklare, fuskar i arkitektur.",
+    "speciality": "Transaktionsintensiv backend"
+  },
+  {
+    "name": "Ulf Rossäng",
+    "yearOfBirth": "1966",
+    "education": "Systemvetenskap",
+    "summary": "Vår omsorgsfulle Dalmas, med glimten i ögat efter många år på banken.",
+    "speciality": "All teknik som banken inte har"
+  }
+]
