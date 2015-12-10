@@ -1,179 +1,383 @@
 [
   {
+    "name": "AAK",
+    "price": "633,50"
+  },
+  {
     "name": "ABB",
     "price": "154,20"
+  },
+  {
+    "name": "Africa Oil Corp.",
+    "price": "11,79"
   },
   {
     "name": "Alfa Laval",
     "price": "153,80"
   },
   {
+    "name": "Assa Abloy B",
+    "price": "177,70"
+  },
+  {
     "name": "AstraZeneca",
     "price": "566,50"
+  },
+  {
+    "name": "Atlas Copco A",
+    "price": "215,80"
   },
   {
     "name": "Atlas Copco B",
     "price": "202,20"
   },
   {
+    "name": "Atrium Ljungberg B",
+    "price": "128,50"
+  },
+  {
     "name": "Autoliv SDB",
     "price": "1 085,00"
+  },
+  {
+    "name": "Axfood",
+    "price": "149,00"
   },
   {
     "name": "Axis",
     "price": "341,50"
   },
   {
+    "name": "Balder B",
+    "price": "184,80"
+  },
+  {
     "name": "Balder Pref",
     "price": "318,20"
+  },
+  {
+    "name": "Betsson B",
+    "price": "149,50"
+  },
+  {
+    "name": "BillerudKorsnäs",
+    "price": "154,00"
   },
   {
     "name": "Boliden",
     "price": "144,30"
   },
   {
+    "name": "Castellum",
+    "price": "117,30"
+  },
+  {
     "name": "Com Hem Holding",
     "price": "74,75"
+  },
+  {
+    "name": "Dometic Group",
+    "price": "53,35"
   },
   {
     "name": "Electrolux A",
     "price": "202,10"
   },
   {
+    "name": "Electrolux B",
+    "price": "198,20"
+  },
+  {
     "name": "Elekta B",
     "price": "73,55"
+  },
+  {
+    "name": "EnQuest PLC",
+    "price": "2,68"
   },
   {
     "name": "Ericsson A",
     "price": "75,65"
   },
   {
+    "name": "Ericsson B",
+    "price": "77,80"
+  },
+  {
     "name": "Fabege",
     "price": "135,40"
+  },
+  {
+    "name": "Getinge B",
+    "price": "213,00"
   },
   {
     "name": "H\u0026M B",
     "price": "302,40"
   },
   {
+    "name": "Handelsbanken A",
+    "price": "111,40"
+  },
+  {
+    "name": "Handelsbanken B",
+    "price": "115,50"
+  },
+  {
     "name": "Hexagon B",
     "price": "307,60"
+  },
+  {
+    "name": "Hexpol B",
+    "price": "87,80"
   },
   {
     "name": "Holmen A",
     "price": "263,40"
   },
   {
+    "name": "Holmen B",
+    "price": "263,00"
+  },
+  {
     "name": "Hufvudstaden A",
     "price": "114,60"
+  },
+  {
+    "name": "Hufvudstaden C",
+    "price": "-"
   },
   {
     "name": "Husqvarna A",
     "price": "53,80"
   },
   {
+    "name": "Husqvarna B",
+    "price": "53,75"
+  },
+  {
     "name": "ICA Gruppen",
     "price": "307,60"
+  },
+  {
+    "name": "Industrivärden A",
+    "price": "162,50"
   },
   {
     "name": "Industrivärden C",
     "price": "148,70"
   },
   {
+    "name": "Indutrade",
+    "price": "455,60"
+  },
+  {
     "name": "Intrum Justitia",
     "price": "281,10"
+  },
+  {
+    "name": "Investor A",
+    "price": "306,20"
+  },
+  {
+    "name": "Investor B",
+    "price": "312,60"
   },
   {
     "name": "JM",
     "price": "255,50"
   },
   {
+    "name": "Kinnevik A",
+    "price": "253,00"
+  },
+  {
     "name": "Kinnevik B",
     "price": "249,80"
+  },
+  {
+    "name": "Latour B",
+    "price": "288,00"
   },
   {
     "name": "Lifco B",
     "price": "218,00"
   },
   {
+    "name": "Loomis B",
+    "price": "264,00"
+  },
+  {
     "name": "Lundberg B",
     "price": "458,40"
+  },
+  {
+    "name": "Lundin Mining Corporation SDB",
+    "price": "22,31"
   },
   {
     "name": "Lundin Petroleum",
     "price": "126,50"
   },
   {
+    "name": "Meda A",
+    "price": "103,40"
+  },
+  {
     "name": "Melker Schörling",
     "price": "521,50"
+  },
+  {
+    "name": "Millicom International Cellular SDB",
+    "price": "503,00"
   },
   {
     "name": "MTG A",
     "price": "235,00"
   },
   {
+    "name": "MTG B",
+    "price": "235,50"
+  },
+  {
+    "name": "NCC A",
+    "price": "265,30"
+  },
+  {
     "name": "NCC B",
     "price": "265,20"
+  },
+  {
+    "name": "Nibe Industrier B",
+    "price": "286,50"
   },
   {
     "name": "Nobia",
     "price": "103,80"
   },
   {
+    "name": "Nordea Bank",
+    "price": "91,30"
+  },
+  {
     "name": "Oriflame Holding",
     "price": "138,50"
+  },
+  {
+    "name": "Pandox B",
+    "price": "147,40"
   },
   {
     "name": "Peab B",
     "price": "64,20"
   },
   {
+    "name": "Ratos A",
+    "price": "59,70"
+  },
+  {
     "name": "Ratos AB pref",
     "price": "1 872,00"
+  },
+  {
+    "name": "Ratos B",
+    "price": "47,67"
   },
   {
     "name": "SAAB B",
     "price": "266,50"
   },
   {
+    "name": "Sandvik",
+    "price": "79,50"
+  },
+  {
     "name": "SCA A",
     "price": "239,70"
+  },
+  {
+    "name": "SCA B",
+    "price": "239,60"
+  },
+  {
+    "name": "SEB A",
+    "price": "86,45"
   },
   {
     "name": "SEB C",
     "price": "86,20"
   },
   {
+    "name": "Securitas B",
+    "price": "127,20"
+  },
+  {
     "name": "Skanska B",
     "price": "167,60"
+  },
+  {
+    "name": "SKF A",
+    "price": "145,60"
   },
   {
     "name": "SKF B",
     "price": "144,90"
   },
   {
+    "name": "SSAB A",
+    "price": "25,79"
+  },
+  {
     "name": "SSAB B",
     "price": "22,00"
+  },
+  {
+    "name": "Stora Enso A",
+    "price": "82,30"
   },
   {
     "name": "Stora Enso R",
     "price": "81,15"
   },
   {
+    "name": "Swedbank A",
+    "price": "182,80"
+  },
+  {
     "name": "Swedish Match",
     "price": "290,90"
+  },
+  {
+    "name": "Swedish Orphan Biovitrum",
+    "price": "129,70"
   },
   {
     "name": "Tele2 A",
     "price": "90,40"
   },
   {
+    "name": "Tele2 B",
+    "price": "83,15"
+  },
+  {
+    "name": "TeliaSonera",
+    "price": "40,75"
+  },
+  {
     "name": "Tieto",
     "price": "218,90"
   },
   {
+    "name": "Trelleborg B",
+    "price": "165,30"
+  },
+  {
     "name": "Wallenstam B",
     "price": "69,55"
+  },
+  {
+    "name": "Volvo A",
+    "price": "81,00"
   },
   {
     "name": "Volvo B",

@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package se.waymark.hacks.waymarkers;
+package se.waymark.hacks.waymarkers.model;
 
 /**
  *
  * @author Anders Strand
  */
-class Stock {
+public class Stock {
 
     private final String name;
     private final String price;

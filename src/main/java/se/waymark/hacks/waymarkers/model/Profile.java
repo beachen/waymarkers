@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package se.waymark.hacks.waymarkers;
+package se.waymark.hacks.waymarkers.model;
 
 /**
  *
@@ -16,6 +16,7 @@ public class Profile
     private String education;
     private String summary;
     private String speciality;
+    private String imageUrl;
 
     public String getName() {
         return name;
@@ -56,5 +57,15 @@ public class Profile
     public void setSpeciality(String speciality) {
         this.speciality = speciality;
     }
+
+    public void setImageUrl(String url) 
+    {
+        this.imageUrl = url;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+    
     
 }
