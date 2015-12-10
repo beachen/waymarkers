@@ -1,0 +1,182 @@
+[
+  {
+    "name": "ABB",
+    "price": "154,20"
+  },
+  {
+    "name": "Alfa Laval",
+    "price": "153,80"
+  },
+  {
+    "name": "AstraZeneca",
+    "price": "566,50"
+  },
+  {
+    "name": "Atlas Copco B",
+    "price": "202,20"
+  },
+  {
+    "name": "Autoliv SDB",
+    "price": "1 085,00"
+  },
+  {
+    "name": "Axis",
+    "price": "341,50"
+  },
+  {
+    "name": "Balder Pref",
+    "price": "318,20"
+  },
+  {
+    "name": "Boliden",
+    "price": "144,30"
+  },
+  {
+    "name": "Com Hem Holding",
+    "price": "74,75"
+  },
+  {
+    "name": "Electrolux A",
+    "price": "202,10"
+  },
+  {
+    "name": "Elekta B",
+    "price": "73,55"
+  },
+  {
+    "name": "Ericsson A",
+    "price": "75,65"
+  },
+  {
+    "name": "Fabege",
+    "price": "135,40"
+  },
+  {
+    "name": "H\u0026M B",
+    "price": "302,40"
+  },
+  {
+    "name": "Hexagon B",
+    "price": "307,60"
+  },
+  {
+    "name": "Holmen A",
+    "price": "263,40"
+  },
+  {
+    "name": "Hufvudstaden A",
+    "price": "114,60"
+  },
+  {
+    "name": "Husqvarna A",
+    "price": "53,80"
+  },
+  {
+    "name": "ICA Gruppen",
+    "price": "307,60"
+  },
+  {
+    "name": "Industrivärden C",
+    "price": "148,70"
+  },
+  {
+    "name": "Intrum Justitia",
+    "price": "281,10"
+  },
+  {
+    "name": "JM",
+    "price": "255,50"
+  },
+  {
+    "name": "Kinnevik B",
+    "price": "249,80"
+  },
+  {
+    "name": "Lifco B",
+    "price": "218,00"
+  },
+  {
+    "name": "Lundberg B",
+    "price": "458,40"
+  },
+  {
+    "name": "Lundin Petroleum",
+    "price": "126,50"
+  },
+  {
+    "name": "Melker Schörling",
+    "price": "521,50"
+  },
+  {
+    "name": "MTG A",
+    "price": "235,00"
+  },
+  {
+    "name": "NCC B",
+    "price": "265,20"
+  },
+  {
+    "name": "Nobia",
+    "price": "103,80"
+  },
+  {
+    "name": "Oriflame Holding",
+    "price": "138,50"
+  },
+  {
+    "name": "Peab B",
+    "price": "64,20"
+  },
+  {
+    "name": "Ratos AB pref",
+    "price": "1 872,00"
+  },
+  {
+    "name": "SAAB B",
+    "price": "266,50"
+  },
+  {
+    "name": "SCA A",
+    "price": "239,70"
+  },
+  {
+    "name": "SEB C",
+    "price": "86,20"
+  },
+  {
+    "name": "Skanska B",
+    "price": "167,60"
+  },
+  {
+    "name": "SKF B",
+    "price": "144,90"
+  },
+  {
+    "name": "SSAB B",
+    "price": "22,00"
+  },
+  {
+    "name": "Stora Enso R",
+    "price": "81,15"
+  },
+  {
+    "name": "Swedish Match",
+    "price": "290,90"
+  },
+  {
+    "name": "Tele2 A",
+    "price": "90,40"
+  },
+  {
+    "name": "Tieto",
+    "price": "218,90"
+  },
+  {
+    "name": "Wallenstam B",
+    "price": "69,55"
+  },
+  {
+    "name": "Volvo B",
+    "price": "79,80"
+  }
+]
